@@ -1,0 +1,4 @@
+.venv/*
+_resources/*
+*.log
+*.out
